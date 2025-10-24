@@ -1,1 +1,2 @@
 Otra prueba de commit firmado
+Commit prueba SSH con allowed_signers
